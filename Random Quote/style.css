@@ -12,7 +12,15 @@ body {
   align-items: center;
   height: 100vh;
 }
-
+body {
+  background-color: #ddd;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
 .quote-container {
   padding: 5rem;
   position: relative;
